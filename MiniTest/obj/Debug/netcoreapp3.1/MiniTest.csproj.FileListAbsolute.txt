@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\MiniTest\MiniTest\bin\Debug\netcoreapp3.1\MiniTest.deps.json
+C:\Users\DELL\source\repos\MiniTest\MiniTest\bin\Debug\netcoreapp3.1\MiniTest.dll
+C:\Users\DELL\source\repos\MiniTest\MiniTest\obj\Debug\netcoreapp3.1\MiniTest.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MiniTest\MiniTest\obj\Debug\netcoreapp3.1\MiniTest.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MiniTest\MiniTest\obj\Debug\netcoreapp3.1\MiniTest.AssemblyInfo.cs

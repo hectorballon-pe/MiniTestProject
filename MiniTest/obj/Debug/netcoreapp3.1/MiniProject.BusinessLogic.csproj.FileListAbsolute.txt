@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\MiniTest\MiniTest\bin\Debug\netcoreapp3.1\MiniProject.BusinessLogic.deps.json
+C:\Users\DELL\source\repos\MiniTest\MiniTest\bin\Debug\netcoreapp3.1\MiniProject.BusinessLogic.dll
+C:\Users\DELL\source\repos\MiniTest\MiniTest\obj\Debug\netcoreapp3.1\MiniProject.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MiniTest\MiniTest\obj\Debug\netcoreapp3.1\MiniProject.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MiniTest\MiniTest\obj\Debug\netcoreapp3.1\MiniProject.BusinessLogic.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MiniTest\MiniTest\bin\Debug\netcoreapp3.1\MiniProject.BusinessLogic.pdb
+C:\Users\DELL\source\repos\MiniTest\MiniTest\obj\Debug\netcoreapp3.1\MiniProject.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MiniTest\MiniTest\obj\Debug\netcoreapp3.1\MiniProject.BusinessLogic.dll
+C:\Users\DELL\source\repos\MiniTest\MiniTest\obj\Debug\netcoreapp3.1\MiniProject.BusinessLogic.pdb
